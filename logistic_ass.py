@@ -327,7 +327,8 @@ print("- Positive coefficients indicate that higher values of the feature are as
 #!pip install streamlit
 
 # In this task, you will deploy your logistic regression model using Streamlit. The deployment can be done locally or online via Streamlit Share.
-# Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions. """
+# Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions. 
+"""
 
 import streamlit as st
 import pandas as pd
