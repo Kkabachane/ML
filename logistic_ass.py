@@ -11,9 +11,9 @@ import pandas as pd
 import numpy as np
 #import matplotlib.pyplot as plt
 #import seaborn as sns
-import statsmodels.formula.api as smf
-sns.set_theme(style='darkgrid',palette='rainbow')
-from sklearn.model_selection import train_test_split
+#import statsmodels.formula.api as smf
+#sns.set_theme(style='darkgrid',palette='rainbow')
+#from sklearn.model_selection import train_test_split
 
 df_train= pd.read_csv('Titanic_train.csv')
 df_train
