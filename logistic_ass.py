@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Xr369GK-ek448zS2laUMV4u5qg_EVc8B
 """
 
-import pandas as pd
+"""import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -327,7 +327,7 @@ print("- Positive coefficients indicate that higher values of the feature are as
 #!pip install streamlit
 
 # In this task, you will deploy your logistic regression model using Streamlit. The deployment can be done locally or online via Streamlit Share.
-# Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions.
+# Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions. """
 
 import streamlit as st
 import pandas as pd
