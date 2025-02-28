@@ -324,7 +324,7 @@ print("- Positive coefficients indicate that higher values of the feature are as
 # Overall Significance:
 # Based on the EDA and the likely coefficients, the most significant features in predicting survival are likely to be 'Sex', 'Pclass', 'Fare', and 'Age'. The engineered 'AgeGroup', 'FareGroup', and 'FamilySize' features will also show importance. 'Embarked' is less influential. The coefficients of the logistic regression model provides quantitative measure of the importance of each feature.
 
-!pip install streamlit
+#!pip install streamlit
 
 # In this task, you will deploy your logistic regression model using Streamlit. The deployment can be done locally or online via Streamlit Share.
 # Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions.
